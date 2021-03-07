@@ -9,5 +9,5 @@ After installing the driver that ships with the device, the trigger box will app
 [SerialPort_MMBTS.cs](Scripts/SerialPort_MMBTS.cs) can be used outside of Unity in a typical CSharp project.
 
 ## System requirements
-Unity3D 2017.4.35f1 and newer versions  
-You need to set the ***Unity API Compatibility Level*** to ***.Net 2.0*** in order to get access to ***System.IO.Ports***
+Unity ***2017.4.35f1*** and newer versions  
+You need to set the Unity ***API Compatibility Level*** to ***.Net 2.0*** in order to get access to ***System.IO.Ports***
